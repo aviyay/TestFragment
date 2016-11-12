@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestFragment</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="article_one">This is article one, for testing purpose</string>
+    <string name="article_two">This is article two, for testing purpose</string>
+</resources>
